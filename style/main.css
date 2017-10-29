@@ -434,7 +434,7 @@ hr {
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
-    background: url('../tile-sets/numbers/32.JPG');
+    background: url('../tile-sets/numbers/32.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
